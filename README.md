@@ -1,2 +1,2 @@
 # Time-Note
-An application for windows(maybe others) to record your life.
+An application to record your life.
